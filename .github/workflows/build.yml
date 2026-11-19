@@ -28,7 +28,7 @@ jobs:
       - name: Extract project
         run: |
           mkdir -p project
-          unzip -o YsMusicPlay_V2_Android.zip -d project
+          unzip -o YsMusicPlay_V2_1_Android.zip -d project
 
       - name: Find Android project
         run: |
